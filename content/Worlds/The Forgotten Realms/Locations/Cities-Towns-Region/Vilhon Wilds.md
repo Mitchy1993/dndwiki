@@ -1,0 +1,1 @@
+A lush pasture of fields and freshwater. Previously the [[Vilhon Reach]] until the [[Spellplague]] forever altered the landscape and drained most of the freshwater

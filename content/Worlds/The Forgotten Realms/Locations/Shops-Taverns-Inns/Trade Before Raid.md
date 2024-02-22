@@ -1,0 +1,3 @@
+Shop in [[Worlds/The Forgotten Realms/Locations/Cities-Towns-Region/Waterdeep]] owned by [[Boss]], but run by two progressive Goblins breaking the traditional mold after Boss showed them the value of buisness and economy
+
+[[Connor's Goblin]] embarks on adventures in order to procure expensive and rare items for the shop giving it a very competitive edge in the city despite the general distaste for Goblins.

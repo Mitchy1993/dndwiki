@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Fate of the Weave
 ---
+Get Started here ---> [[Welcome to the Fate of the Weave]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

@@ -1,0 +1,1 @@
+**Elbulder** was established as a logging town when [[Sespech]] existed, before the [[Spellplague]]. It lies south of the [[Chondalwood]]

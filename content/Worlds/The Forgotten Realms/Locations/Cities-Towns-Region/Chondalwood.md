@@ -1,0 +1,1 @@
+**Chondalwood** is a large forest located in East of the [[Plaguewrought Land]], It is also known as **Satyrwood**. The ruins of [[Elbulder]] is to the south of the forest

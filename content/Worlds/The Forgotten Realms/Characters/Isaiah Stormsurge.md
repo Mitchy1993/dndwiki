@@ -1,0 +1,1 @@
+Current [[Open Lord]] of [[Worlds/The Forgotten Realms/Locations/Cities-Towns-Region/Waterdeep]]

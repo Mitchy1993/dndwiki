@@ -1,0 +1,1 @@
+The western coast of [[Worlds/The Forgotten Realms/Locations/Cities-Towns-Region/Faerûn]]

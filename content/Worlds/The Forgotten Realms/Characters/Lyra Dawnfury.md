@@ -1,0 +1,1 @@
+Master of the [[Order of the Lycan]] division of the [[Blood Hunter's]] 

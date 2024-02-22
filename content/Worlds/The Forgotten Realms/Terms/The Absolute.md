@@ -1,0 +1,1 @@
+Elder Brain dominated by [[Enver Gortash]] in the [[Plot of the Absolute]]

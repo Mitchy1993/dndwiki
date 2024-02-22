@@ -1,0 +1,1 @@
+Slave of [[Alenia]] on [[The Gemfire]], friend of [[Gruumshar]]

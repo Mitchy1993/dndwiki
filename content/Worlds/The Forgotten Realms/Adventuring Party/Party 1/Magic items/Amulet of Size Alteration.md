@@ -1,0 +1,1 @@
+This amulet allows the wearer to cast _enlarge/reduce_ on themselves once per day without expending a spell slot. It could provide your gnome warlock with a temporary boost in height whenever needed.

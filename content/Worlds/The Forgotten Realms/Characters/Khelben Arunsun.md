@@ -1,0 +1,3 @@
+One of the few spellcasters to become one of [[Mystra's Chosen]] and the last survivor of House [Maerdrym](https://forgottenrealms.fandom.com/wiki/Maerdrym "Maerdrym"), Khelben was a serious, imposing wizard, and a grim proponent of law and order whose methods of achieving the ultimate good were often highly questionable in the eyes of the righteous
+
+He is considered the greatest of the Blackstaffs

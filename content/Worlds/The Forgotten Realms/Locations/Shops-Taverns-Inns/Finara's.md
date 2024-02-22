@@ -1,0 +1,2 @@
+Popular 15th century inn that catered to pilgrims and travelers like every other establishment in the city. Finara was the inn's elderly owner, and she offered reasonably-priced accommodations
+		- Finara's daughter Grace runs her late mother's place now

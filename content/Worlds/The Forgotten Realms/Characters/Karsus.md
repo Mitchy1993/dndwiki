@@ -1,0 +1,3 @@
+Karsus is a legendary figure in Dungeons & Dragons lore known for his audacious attempt to usurp the power of a god. He is associated with the spell "Karsus's Avatar," which he cast in a bid to ascend to divinity but instead caused a catastrophic event known as Karsus's Folly. 
+
+This event led to the collapse of the Netherese Empire. Karsus serves as a cautionary tale about the dangers of hubris and the limits of mortal power in the face of the divine.
