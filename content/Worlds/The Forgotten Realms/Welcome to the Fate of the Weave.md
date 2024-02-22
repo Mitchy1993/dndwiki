@@ -1,4 +1,5 @@
 [[Hardcore Gamer Content]] <--- For those who need the full scoop
+
 **Player Requirements:**
 
 - ***Name***

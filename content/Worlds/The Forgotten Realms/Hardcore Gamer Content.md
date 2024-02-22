@@ -1,32 +1,6 @@
 **Talespire Mod list Code**: 018dbc8a-976a-1401-31e5-750624fc12e9
 
 [[Welcome to the Fate of the Weave]]
-### Player's Provide the Following:
-- Name
-- Age
-- Alignment
-- Backstory 
-	- As detailed as you would like, the DM will read them entirely. The DM is looking forward to what you come up with!
-- Summarize character goals or aspirations
-- ***If*** character is keeping secrets, disclose them to the DM. No secrets from the DM
-- Restate your Home Region/Town
-- 1 *Uncommon* Magical Item
-- List of significant items (Owned or Pursued)
-- Character Art
-- Character Sheet **(After Session 0)**
-- Provide a reason that your character will be in [[Worlds/The Forgotten Realms/Locations/Cities-Towns-Region/Waterdeep|Waterdeep]] at the start of the campaign.
-	- The DM will provide your character with a reason if you cannot think of one
-- Preferred Playstyle Vote
-	- Mostly Role-play, rare combat
-	- Role-play, with regular combat
-	- Fight, Rest, Find out who to fight, Fight
-
-### Alert the DM in advance if you do not consent to player death.
-- Enemies will be logical and ruthless when narratively appropriate.
-- <small> If the death of your character would devastate you beyond repair, the DM will find a way to cheat your character back to life. 
-	- Aside from this exception, the DM will make for a player in advance, PC death will result in the need for a backup character <big>
-- ***I'm not a monster, if you play smart you'll be fine***
-
 # Fate of the Weave
 
 1. **Campaign Setting**
