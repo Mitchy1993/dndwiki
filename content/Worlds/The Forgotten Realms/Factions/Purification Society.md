@@ -2,7 +2,6 @@
 tags:
   - Faction
 ---
-
 ### Ideology
 
 1. **Race Supremacy**: Belief in superiority of a few races, hunting others to maintain hierarchy.
@@ -32,9 +31,3 @@ tags:
 9. **[[Half-Orc]]**: Underestimated yet respected for strength and tenacity, formidable warriors.
 
 10. **Others**: Inferior races like [[Kenku]], [[Orc]], [[Goblin]], and [[Kobold]] are marginalized and often hunted or enslaved.
-
-## TLDR
-
-- KKK, D&D edition
-- They don't like you boyz
-- They will try to kill you, if they find you

@@ -1,42 +1,32 @@
-### General Information:
+**Undermountain**
 
-- **Location:** Beneath the city of [[Worlds/The Forgotten Realms/Locations/Cities-Towns-Region/Waterdeep]].
-- **Type:** Vast dungeon complex.
-
-### Description:
-
-- Enormous and multi-leveled dungeon with countless chambers, tunnels, and challenges.
+**Overview:**
+- **Location:** Beneath the city of [[Waterdeep]].
+- Enormous dungeon with countless chambers, tunnels, and challenges.
 - Created by the mad wizard [[Halaster Blackcloak]].
 
-### History:
+**History:**
+- Originated as a dwarven delving, expanded by [[Halaster Blackcloak]].
+- Known for danger, treasure, and secrets.
 
-- Originated as a dwarven delving, later expanded by [[Halaster Blackcloak]] into the sprawling dungeon it is today.
-- Known for being a realm of danger, treasure, and secrets.
+**Ruler:**
+- **[[Halaster Blackcloak]]:** Eccentric wizard who rules the dungeon.
 
-### Ruler:
+**Features:**
+- **The Well of the Dragons:** Entrance in the [[Yawning Portal]] inn.
+- **Multiple Levels:** Each level with unique challenges and inhabitants.
 
-- **[[Halaster Blackcloak]]:** The infamous and eccentric wizard who transformed the dungeon into his personal domain.
+**Inhabitants:**
+- Various creatures including monsters, aberrations, and undead.
+- Some levels controlled by factions and powerful beings.
 
-### Features:
+**Treasure and Dangers:**
+- **Vast Riches:** Wealth, artifacts, and secrets rumored within.
+- **Perils:** Deadly traps, illusions, and unpredictability.
 
-- **The Well of the Dragons:** A massive well in the [[Yawning Portal]] inn that serves as an entrance to the upper levels of [[Undermountain]].
-- **Multiple Levels:** Extends deep into the earth, with each level having its own challenges and inhabitants.
+**Adventuring Opportunities:**
+- Popular for fame, fortune, or exploration.
+- Dynamic environment for combat and role-playing.
 
-### Inhabitants:
-
-- Home to a wide array of creatures, including monsters, aberrations, and undead.
-- Some levels are controlled by powerful factions and beings.
-
-### Treasure and Dangers:
-
-- **Vast Riches:** Rumored to contain immense wealth, magical artifacts, and ancient secrets.
-- **Perils:** Known for its deadly traps, illusions, and unpredictable nature.
-
-### Adventuring Opportunities:
-
-- Popular among adventurers seeking fame, fortune, or the thrill of exploration.
-- Offers a dynamic environment for both combat and role-playing scenarios.
-
-### Associated Modules:
-
-- Featured prominently in D&D modules such as "Waterdeep: Dungeon of the Mad Mage."
+**Associated Modules:**
+- Featured in "Waterdeep: Dungeon of the Mad Mage" and other D&D modules.

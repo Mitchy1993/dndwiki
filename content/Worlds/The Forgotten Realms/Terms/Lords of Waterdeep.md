@@ -1,5 +1,9 @@
-The Lords of Waterdeep are the mysterious and predominantly anonymous ruling council of Waterdeep, having governed the city from the 11th century onwards. They oversee the regional economy, maintain security, performed diplomacy, and hold legal jurisdiction over the city and exert their will over the surrounding lands for approximately 100 mi (160 km) beyond its walls.
-
-This council always had one [[Open Lord]] at all times.
-
-The council members cast obfuscation wards on their faces each morning which cast a shadow over their faces only allowing a faint outline to show through. This along with the red & black hoods they wear make it incredibly difficult to determine their identity
+- **Lords of Waterdeep:**
+  - Mysterious ruling council of Waterdeep since the 11th century.
+  - Responsibilities include governing the city, overseeing economy, security, diplomacy, and legal jurisdiction.
+  - Influence extends approximately 100 miles beyond city walls.
+- **Open Lord:**
+  - Always one in office.
+- **Identity Concealment:**
+  - Council members wear obfuscation wards on their faces daily, casting shadows and making identification challenging.
+  - Attire includes red and black hoods, further obscuring their identities.

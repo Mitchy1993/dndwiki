@@ -1,3 +1,5 @@
-The Open Lord (also called the "Unmasked Lord") was the sole member of the [[Lords of Waterdeep]] whose identity was publicly known. They held a number of additional titles including Warden of Waterdeep, Overmaster of the Guilds, and Commander of the Watch. The Open Lord was also the city's chief diplomat. There was only one Open Lord at any one time, but when the previous one died or stepped down, they were replaced by a new one.
-
-The current Open Lord, replacing the disappeared [[Laeral Silverhand]] is [[Isaiah Stormsurge]]
+- **Open Lord (Unmasked Lord):**
+  - Sole publicly known member of the [[Lords of Waterdeep]].
+  - Holds titles such as Warden of Waterdeep, Overmaster of the Guilds, Commander of the Watch, and chief diplomat.
+  - Only one Open Lord exists at any given time.
+  - Succession occurs when the previous Open Lord dies or steps down, replaced by a new one.

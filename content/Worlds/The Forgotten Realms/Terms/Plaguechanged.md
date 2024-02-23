@@ -1,45 +1,34 @@
 ### General Information:
-
-- **Term:** Plaguechanged
-- **Nature:** A phenomenon associated with the Spellplague in the Forgotten Realms.
+- Plaguechanged denotes physical and magical alterations due to the Spellplague, caused by chaotic magical energies.
 - **Time Period:** Primarily occurred during the Spellplague in 1385 DR (Dale Reckoning).
-
-### Overview:
-
-- Plaguechanged refers to the physical and magical alterations that individuals, creatures, and even landscapes underwent as a result of the Spellplague.
-- The chaotic magical energies unleashed during the Spellplague caused transformative effects on the world.
 
 ### Effects on Individuals:
 
-- **Physical Mutations:** Individuals affected by the Spellplague might experience physical mutations, such as changes in appearance or abilities.
-- **Magical Alterations:** Some individuals gained new magical abilities or underwent changes in their spellcasting capabilities.
-- **Unpredictability:** The effects of the Spellplague were unpredictable, and individuals could be profoundly changed in various ways.
+- **Physical Mutations:** Individuals experienced changes in appearance or abilities.
+- **Magical Alterations:** Some gained new magical abilities or underwent changes in spellcasting.
+- **Unpredictability:** Effects were varied and unpredictable.
 
 ### Effects on Creatures:
 
-- **Creature Transformations:** Creatures across the realms experienced transformations, becoming new and often unpredictable forms.
-- **Creation of New Species:** The Spellplague led to the creation of new species and magical anomalies in different regions.
-- **Wild Magic Zones:** Certain areas became saturated with wild magic, resulting in unpredictable effects on creatures within those zones.
+- **Transformations:** Creatures took on new, often unpredictable forms.
+- **New Species:** The Spellplague led to the creation of new species and magical anomalies.
+- **Wild Magic Zones:** Some areas became saturated with wild magic, affecting creatures within.
 
 ### Effects on Landscapes:
 
-- **Warped Terrain:** Landscapes and geographical features were warped and altered by the chaotic magical energies.
-- **Creation of Anomalies:** Spellplague-induced anomalies, such as floating earthmotes and twisted landscapes, became common in some regions.
+- **Warped Terrain:** Geographical features were warped and altered.
+- **Creation of Anomalies:** Floating earthmotes and twisted landscapes became common.
 
 ### Aftermath:
 
-- The effects of the Spellplague and the resulting plaguechanged phenomena had a lasting impact on the world.
-- Efforts were made to stabilize the magical energies and restore some order to the transformed landscapes.
+- Lasting impact on the world, efforts made to stabilize magical energies.
+- Healing and restoration efforts initiated to address the transformations.
 
 ### Cultural and Social Impact:
 
-- Plaguechanged individuals faced challenges in society, as their altered forms and abilities were often met with fear or prejudice.
-- The emergence of new species and magical anomalies influenced the dynamics of various regions.
+- Plaguechanged individuals faced societal challenges due to fear and prejudice.
+- Emergence of new species influenced regional dynamics.
 
 ### Healing and Restoration:
 
-- Over time, magical and divine efforts were made to heal individuals affected by the Spellplague and to restore some semblance of normalcy to the realms.
-
-### Associated Modules:
-
-- Plaguechanged individuals and the transformative effects of the Spellplague are central elements in various Forgotten Realms novels, sourcebooks, and campaign modules.
+- Magical and divine efforts made over time to heal and restore affected individuals.

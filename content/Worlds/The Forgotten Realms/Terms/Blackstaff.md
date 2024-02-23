@@ -1,15 +1,7 @@
-**Blackstaff** was the title and name given to the master of the eponymous staff and [[Blackstaff Tower]] including Blackstaff Academy, as well as the [Archmage](https://forgottenrealms.fandom.com/wiki/Archmage "Archmage") of [[Worlds/The Forgotten Realms/Locations/Cities-Towns-Region/Waterdeep]] "Blackstaff" was originally a nickname given to [[Khelben Arunsun]] because of his powerful staff of the same name, but after his death it became the title used by his successors.
+The title of "Blackstaff" is bestowed upon the master of the eponymous staff and [[Blackstaff Tower]] in [[Waterdeep]]. Originally a nickname for [[Khelben Arunsun]] due to his powerful staff, it evolved into a title for his successors. Rituals formed, including the selection of an heir who served as apprentice.
 
-Over time, rituals and traditions formed, and it became customary for the Blackstaff to choose an heir. The heir served as the apprentice and assistant to the Blackstaff.
+The tower housed quasi-spirits of former Blackstaffs, advised by green facsimiles created by [[Kiira N'Vaelahr]]. In 1415 DR, Krehlan Arunsun and Rhymanthiin's Grand Mages dispersed Kiira's magic, binding it to Blackstaff Tower and N'Vaerymanth. Now, spirits of Blackstaffs and heirs reside in the tower, offering wisdom.
 
-The magical quasi-spirits of the former Blackstaffs resided within the tower and served as advisors to the Blackstaff. They were not true spirits but were green-tinged facsimiles produced by the green _[[kiira N'Vaelahr]]. 
+Manipulating the tower at will, Blackstaffs could open doors, eavesdrop on conversations, and access the tower's magical inventory. They were also aware of N'Vaerymanth's status. Maliantor's "*[[My Eyes Open Always]]*" notes the Blackstaff's ability to discern the whereabouts and intentions of those within the tower through magical connections.
 
-The _kiira N'Vaelhar_ once held the spirits and combined knowledge of the first three Blackstaffs, Khelben Arusun, [Tsarra Chaadren](https://forgottenrealms.fandom.com/wiki/Tsarra_Chaadren "Tsarra Chaadren"), and [Kyriani Agrivar](https://forgottenrealms.fandom.com/wiki/Kyriani_Agrivar "Kyriani Agrivar"), but [Krehlan Arunsun](https://forgottenrealms.fandom.com/wiki/Krehlan_Arunsun "Krehlan Arunsun") and the Grand Mages of [Rhymanthiin](https://forgottenrealms.fandom.com/wiki/Rhymanthiin "Rhymanthiin") dissipated the _kiira_ in the Year of Staves Arcane ([1415 DR](https://forgottenrealms.fandom.com/wiki/1415_DR "1415 DR")) and bound its magic to Blackstaff Tower and its twin in Rhymanthiin, N'Vaerymanth. 
-
-Now whenever someone became a Blackstaff or the heir, a template of their spirit, intellect, and knowledge became part of the Blackstaff and the tower (not the actual spirits). These spirits could not leave the tower, but the Blackstaff could communicate with them or tap into their knowledge whenever he or she so wished. Krehlan merged the gem with the tower so that it could be the Blackstaff’s advisor, rather than have all the combined consciousnesses of the previous Blackstaffs overwhelm the current Blackstaff.
-
-The Blackstaff could also manipulate the tower at will, opening any door with a thought, and could listen in on the conversations of anyone within the tower. He or she also knew the location and nature of every magical item within the tower and could see the tower’s twin, N'Vaerymanth, in his or her mind. 
-
-[Maliantor](https://forgottenrealms.fandom.com/wiki/Maliantor "Maliantor") further notes in her book _My Eyes Open Always: Memories of the Blackstaff_ ([1416 DR](https://forgottenrealms.fandom.com/wiki/1416_DR "1416 DR")) that the Blackstaff knew the location, identity, general mood, and intent of anyone within the tower by his or her magical ties to the stones.
-
-The seventh Blackstaff was [Vajra Safahr](https://forgottenrealms.fandom.com/wiki/Vajra_Safahr "Vajra Safahr").
+The seventh Blackstaff was [[Vajra Safahr]].

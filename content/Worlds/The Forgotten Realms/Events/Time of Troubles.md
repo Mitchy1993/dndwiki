@@ -1,49 +1,33 @@
-## Time of Troubles
-
-### General Information:
-
-- **Duration:** 1358 DR (Dale Reckoning) - 1359 DR.
-- **Type:** A cataclysmic event in the Forgotten Realms, affecting the pantheon of deities.
-
 ### Overview:
 
-- A period of chaos and upheaval caused by the gods being forced to walk the mortal realms.
-- Resulted from the theft of the Tablets of Fate by the deity Cyric and the subsequent fall of the Overgod Ao.
-
+- **Duration:** 1358 DR (Dale Reckoning) - 1359 DR.
+- Period of chaos caused by gods being forced into mortal avatars.
+- Triggered by theft of Tablets of Fate by Cyric and Ao's judgment.
 ### Causes:
 
-- **Theft of Tablets of Fate:** Cyric, the God of Murder, stole the Tablets of Fate, disrupting the balance of power among the gods.
-- **Ao's Judgment:** In response to the theft, Ao, the Overgod, cast the gods down to the mortal realms to teach them humility.
+- **Tablets of Fate Theft:** Cyric disrupts divine balance by stealing Tablets.
+- **Ao's Judgment:** Overgod casts gods down to teach humility.
 
 ### Key Events:
 
-1. **Gods Walk the Earth:**
-    
-    - Deities manifest in mortal avatars, losing their divine powers.
-    - Gods such as Mystra, Bane, and Cyric, among others, walked among mortals.
-2. **Death of Bhaal:**
-    
-    - The god of murder, Bhaal, took advantage of the chaos to sire mortal offspring.
-    - This led to the Time of Troubles contributing to the "Avatar Crisis" involving the Children of Bhaal.
-3. **Rise of Mortals:**
-    
-    - Mortals had the opportunity to rise to power and challenge the divine hierarchy.
-    - Mortal heroes faced the avatars of gods in epic battles.
-4. **Ascension of Mortals:**
-    
-    - The events of the Time of Troubles paved the way for some mortals to ascend to godhood.
-    - Examples include Midnight becoming the new Mystra and Cyric ascending to divinity.
+1. **Gods Incarnate:**
+    - Deities lose powers, manifest in mortal forms.
+    - Mystra, Bane, Cyric among gods who walked among mortals.
+2. **Bhaal's Scheme:**
+    - Bhaal fathers mortal children during chaos.
+    - Leads to "Avatar Crisis" with the Children of Bhaal.
+3. **Mortal Rise:**
+    - Mortals seize chance to challenge divine order.
+    - Epic battles between mortal heroes and godly avatars.
+4. **Mortal Ascension:**
+    - Some mortals ascend to godhood, like Midnight and Cyric.
 
 ### Impact:
 
-- Profoundly changed the political and magical landscape of the Forgotten Realms.
-- Led to the death and resurrection of certain deities and shifts in the balance of power.
+- Altered political and magical realms significantly.
+- Changed divine hierarchy and balance of power.
 
 ### Aftermath:
 
-- The new Pantheon: The Time of Troubles reshaped the hierarchy of the gods, with new deities ascending to prominence.
-- Establishment of Mortal Champions: Mortal heroes who played pivotal roles during the Time of Troubles gained lasting recognition.
-
-### Associated Modules:
-
-- The Time of Troubles is a central element in various Forgotten Realms novels and campaign modules, influencing the lore and history of the setting.
+- New Pantheon: Reshaped godly hierarchy, new deities emerge.
+- Mortal Champions: Heroes gain lasting recognition for roles in the crisis.

@@ -33,26 +33,26 @@ imports:
   - Rare Spell Components
 ---
 ### Waterdeep
-<small> Part of the [[Lords' Alliance]] <big>
+
+**Part of the [[Lords' Alliance]]**
+
 #### Notable Buildings and Persons:
 
-- **The Yawning Portal:** Famous tavern built around a well leading to Undermountain.
-- **Blackstaff Tower:** Home of the Archmage of Waterdeep, [[Vajra Safahr]].
-- **[[Durnan]]:** Owner of the [[Yawning Portal]] inn and a legendary adventurer
-
+- **The Yawning Portal:** Famous tavern with a well leading to Undermountain.
+- **Blackstaff Tower:** Home of Archmage [[Vajra Safahr]].
+- **[[Durnan]]:** Legendary adventurer and owner of the Yawning Portal.
 
 #### G.U.A.R.D.S.
 
 - **Government:** [[Castle Waterdeep]]: [[Isaiah Stormsurge]] and [[Lords of Waterdeep]]
 - **Underworld:** [[Xanathar Guild]] and [[Zhentarim]]
-- **Altars:**  [[Mystra]], [[Tyr]], and [[Shrine of the Rat]]. 
+- **Altars:** [[Mystra]], [[Tyr]], and [[Shrine of the Rat]]
 - **Resources:** Imports magical ingredients, exports magical items  
-- **Defenses:** Strong city walls,  [[City Watch]], [[Lords' Alliance]]  
-- **Social Hubs:**  [[Yawning Portal]], [[Trade Before Raid]]
-- **Location:**  Sword Coast (North)
-- **Government:** [[Castle Waterdeep]]: [[Isaiah Stormsurge]] and [[Lords of Waterdeep]]
+- **Defenses:** Strong city walls, [[City Watch]], [[Lords' Alliance]]  
+- **Social Hubs:** [[Yawning Portal]], [[Trade Before Raid]]
+- **Location:** Sword Coast (North)
 
 ### History:
 
-- Founded by the seafaring [[Nimoar the Reaver]] in 1032 DR.
-- Has a history of political intrigue, including the "[[Time of Troubles]]" and conflicts with rival cities.
+- Founded by seafaring [[Nimoar the Reaver]] in 1032 DR.
+- History of political intrigue, including the "[[Time of Troubles]]" and conflicts with rival cities.

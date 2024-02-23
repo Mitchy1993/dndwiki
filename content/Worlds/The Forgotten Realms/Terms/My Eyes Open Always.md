@@ -1,0 +1,1 @@
+Notes the [[Blackstaff]]s ability to discern the whereabouts and intentions of those within the tower through magical connections.

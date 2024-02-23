@@ -1,16 +1,4 @@
-An **earthmote** was a piece of land that, due to the influence of magic, floated above the earth. Despite their appearance, the earthmotes were as durable and stable as any piece of land in the ground.
-
-Although earthmotes could be raised artificially with the use of magic, most of the existing earthmotes in the 15th century DR and were a direct consequence of the [[Spellplague]]
-
-### Description
-Each earthmote was unique in size, shape and altitude. Some were no bigger than chunks of earth, while others were almost as big as a mountain or an island. Some hovered no more than a few meters above ground, while others floated in the sky, alongside the clouds. A few earthmotes moved across the lands, either in programmed routes or erratically, but most of them were stationary, hovering near an earthbound feature. Disruptions, whether natural or magical, didn't have any effects on an earthmote's ability to float.
-
-Almost all earthmotes could support life, and their natural flora mirrored that of the landscape below them, allowing some earthmotes to be settled by those who had the resources to do such a thing. Likewise, some earthmotes had natural [portals](https://forgottenrealms.fandom.com/wiki/Portal "Portal") to the [Elemental Plane of Water](https://forgottenrealms.fandom.com/wiki/Elemental_Plane_of_Water "Elemental Plane of Water"), allowing them to create never-ending water sources.
-
-Some [spellcasters](https://forgottenrealms.fandom.com/wiki/Spellcaster "Spellcaster") were able to master [rituals](https://forgottenrealms.fandom.com/wiki/Ritual "Ritual") that allowed them to create earthmotes by magically raising chunks of earth from the ground, or to control the movements of existing ones
-
-### History
-It was believed the [Netherese](https://forgottenrealms.fandom.com/wiki/Netherese "Netherese") were the first spellcasters that developed the magical rituals to create artificial earthmotes, when they were building their [flying cities](https://forgottenrealms.fandom.com/wiki/Netherese_enclave "Netherese enclave").
-
-After the Spellplague of [1385 DR](https://forgottenrealms.fandom.com/wiki/1385_DR "1385 DR"), and due to the wild magic effects released during that cataclysm, many earthmotes appeared across [Toril]. Usually, the earthmotes were more common in places where Toril and [Abeir](https://forgottenrealms.fandom.com/wiki/Abeir "Abeir") had exchanged lands specially in [Akanûl](https://forgottenrealms.fandom.com/wiki/Akan%C3%BBl "Akanûl"), the [Vilhon Wilds](https://forgottenrealms.fandom.com/wiki/Vilhon_Reach "Vilhon Reach") and around the [Underchasm](https://forgottenrealms.fandom.com/wiki/Underchasm "Underchasm") In the following century, earthmotes became widely common in [Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn "Faerûn"), and some kingdoms even went to war with one another for the dominion of such new territories.
-When the [Second Sundering](https://forgottenrealms.fandom.com/wiki/Second_Sundering "Second Sundering") came to an end, around [1487 DR](https://forgottenrealms.fandom.com/wiki/1487_DR "1487 DR"), most earthmotes lost their magical properties and fell from the sky or were taken over to Abeir. However, not all of them disappeared, and a few lonely earthmotes or isolated groups of them were still common across Toril even after the Sundering came to an end
+- **Nature:** Floating landmasses sustained by magic, often stemming from the Spellplague, varying in size and altitude.
+- **Characteristics:** Can support life, occasionally featuring portals to the Elemental Plane of Water; spellcasters can create or manipulate them through rituals.
+- **History:** Netherese were believed to be pioneers in earthmote creation during the era of flying cities; after the Spellplague, earthmotes proliferated, especially in areas where Toril and Abeir intersected, leading to territorial disputes.
+- **Post-Sundering:** Following the Second Sundering, occurring around 1487 DR, many earthmotes lost their magic, either plummeting to the ground or shifting to Abeir, while some persisted across Toril.

@@ -1,8 +1,10 @@
-- If you don't sleep on a bed roll, bed or environment conducive to sleep you suffer a 10% Max HP penalty rounded down
-	- Debuff removed by a Long Rest with proper accommodations
-- Lacking adequate food for a day imposes a stacking *hungry* debuff 
-	- -1 to all ability checks and saving throws
-	- 3> days imposes *starving* debuff which lowers Max HP by 20% each day until *death*
-		- Eating a full meal removes all hunger/starving debuffs
-		- Eating half a meal removes half of all hunger/starving debuffs
-		- Eating a snack prevents a stack for that day
+#### **Sleep Deprivation:**
+  - Failure to sleep on a proper surface results in a 10% Max HP penalty (rounded down).
+  - Debuff removed by a Long Rest with appropriate accommodations.
+#### Food Deprivation:**
+  - Inadequate food leads to a stacking *hungry* debuff:
+    - -1 to all ability checks and saving throws.
+  - After 3 days, *starving* debuff occurs, reducing Max HP by 20% daily until death.
+    - Eating a full meal removes all hunger/starving debuffs.
+    - Eating half a meal removes half of all hunger/starving debuffs.
+    - Eating a snack prevents a stack for that day.

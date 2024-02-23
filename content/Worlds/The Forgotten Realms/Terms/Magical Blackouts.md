@@ -1,3 +1,6 @@
-A radius of varying size where magic itself seems to be eliminated, any spells, wards, machinery, persons or creatures that have magical components are rendered inert
-
-The blackouts seem to be temporary, meaning magic can eventually be cast in that area again, but any magic previously dispelled (wards, spells, machinery, persons, or creatures) do not recover.
+- **Magic Null Zone:**
+  - Area with varying size where magic is nullified.
+  - Renders spells, wards, machinery, persons, or creatures with magical components inert.
+- **Temporary Blackouts:**
+  - Magic elimination is temporary; casting becomes possible again over time.
+  - Previously dispelled magic components remain inert; no recovery occurs.

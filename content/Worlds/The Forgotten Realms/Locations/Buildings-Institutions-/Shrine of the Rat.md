@@ -1,3 +1,3 @@
-A small temple dedicated to a small cult that has been slowly mustering over the years. Whispers here and there seem to indicate that the temple doesn't worship a particular deity as much as it promotes an obession with an entity they call "The Rat King."
-
-Followers of the Rat King tend to hold  a deep distain for the wealthy and wish for society to be completely equal even if that means that everyone should live in poor conditions. They believe if anyone is forced to be the rats of the land then all should be.
+- Temple dedicated to cult worshiping "The Rat King."
+- Followers despise the wealthy, advocating for absolute societal equality, even if it means poverty for all.
+- Belief in universal destitution if any are relegated to low status, akin to all being "rats of the land."
