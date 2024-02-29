@@ -1,7 +1,17 @@
-The title of "Blackstaff" is bestowed upon the master of the eponymous staff and [[Blackstaff Tower]] in [[Waterdeep]]. Originally a nickname for [[Khelben Arunsun]] due to his powerful staff, it evolved into a title for his successors. Rituals formed, including the selection of an heir who served as apprentice.
+- **Blackstaff Title and Tower:**
+  - Designates master of [[Blackstaff Tower]] in [[Waterdeep]], initially held by [[Khelben Arunsun]].
+  - Evolved into hereditary title with rituals for selecting successors.
 
-The tower housed quasi-spirits of former Blackstaffs, advised by green facsimiles created by [[Kiira N'Vaelahr]]. In 1415 DR, Krehlan Arunsun and Rhymanthiin's Grand Mages dispersed Kiira's magic, binding it to Blackstaff Tower and N'Vaerymanth. Now, spirits of Blackstaffs and heirs reside in the tower, offering wisdom.
+- **Tower's Quasi-Spirits:**
+  - Houses quasi-spirits of former Blackstaffs, guided by green facsimiles created by [[Kiira N'Vaelahr]].
 
-Manipulating the tower at will, Blackstaffs could open doors, eavesdrop on conversations, and access the tower's magical inventory. They were also aware of N'Vaerymanth's status. Maliantor's "*[[My Eyes Open Always]]*" notes the Blackstaff's ability to discern the whereabouts and intentions of those within the tower through magical connections.
+- **Dispersion of Kiira's Magic:**
+  - In 1415 DR, Krehlan Arunsun disperses Kiira's magic, binding it to Blackstaff Tower and N'Vaerymanth.
+  - Spirits of Blackstaffs and heirs now reside in the tower.
 
-The seventh Blackstaff was [[Vajra Safahr]].
+- **Blackstaff's Control and Awareness:**
+  - Blackstaffs have control over tower functions and awareness of N'Vaerymanth's status.
+  - Maliantor's "*[[My Eyes Open Always]]*" details the Blackstaff's ability to monitor tower activities.
+
+- **Seventh Blackstaff:**
+  - [[Vajra Safahr]] assumes the position as the seventh Blackstaff.

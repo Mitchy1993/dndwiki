@@ -1,0 +1,1 @@
+Cleric of [[Mystra]] assembling some sort of mission

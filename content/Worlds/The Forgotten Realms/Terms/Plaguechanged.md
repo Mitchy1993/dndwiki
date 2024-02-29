@@ -2,9 +2,9 @@
 - Plaguechanged denotes physical and magical alterations due to the Spellplague, caused by chaotic magical energies.
 - **Time Period:** Primarily occurred during the Spellplague in 1385 DR (Dale Reckoning).
 
-### Effects on Individuals:
+### ==Effects on Individuals:==
 
-- **Physical Mutations:** Individuals experienced changes in appearance or abilities.
+- **Physical Mutations:** Individuals experienced horrifying changes in appearance or abilities.
 - **Magical Alterations:** Some gained new magical abilities or underwent changes in spellcasting.
 - **Unpredictability:** Effects were varied and unpredictable.
 

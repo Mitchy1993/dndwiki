@@ -1,5 +1,23 @@
-Ao is the *overgod* in the Dungeons & Dragons multiverse. He is the supreme deity who oversees all other deities and maintains the balance of power between them. Ao is responsible for setting the rules and laws that govern the cosmos, including the behavior of gods and the nature of reality. 
+**Lord Ao: The Overgod**
 
-He is not worshiped by mortals and rarely intervenes directly in mortal affairs, preferring to uphold the divine hierarchy and ensure that the gods adhere to their respective domains and responsibilities. 
+- **Nature:** Embodies The Balance, showing no extremes.
+- **Dominion:** Rules over Abeir-Toril, including all deities and primordials.
+- **Visibility:** Became known to mortals during the Time of Troubles.
+  
+**Physical Manifestation:**
+- Appeared once during the Time of Troubles.
+- Imposing figure with symmetrical, average appearance.
+- Ageless features, wearing a black robe adorned with stars and moons.
 
-In essence, ***Ao is the ultimate authority figure in the D&D universe***, ensuring order and balance among the gods and their realms.
+**Role and Actions:**
+- Mostly observes events, intervening only when necessary.
+- Punishes deities who deviate from their portfolios.
+- Can be impressed by acts of sacrifice but angered by petty behavior.
+
+**Omniscience and Power:**
+- Uncertainty about his omniscience.
+- Holds immense power, capable of creating and damaging deities at will.
+
+**Relationship with Mortals:**
+- Unlike other gods, doesn't require or desire mortal worship.
+- Enforces his will for gods to maintain balance, rather than rule over mortals.

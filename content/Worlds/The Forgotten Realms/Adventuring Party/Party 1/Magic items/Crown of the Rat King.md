@@ -1,0 +1,1 @@
+Allows the summoning of a loyal Rat Swarm for 1 minute *1/day*
