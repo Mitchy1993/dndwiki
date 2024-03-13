@@ -1,5 +1,64 @@
 Asura Swiftfoot, a resourceful Kitsune artificer, was once hailed as a prodigy in her homeland for her talent in crafting and explosives. However, a tragic accident resulting from one of her experiments led to her exile from her clan. Now, Asura roams the land as a lone wanderer, honing her skills and seeking redemption for her past mistakes. Joining Timothy's rival party offers her a chance at redemption and a new purpose.
-
+![[Asura Swiftfoot.jpg]]
+# Statblock
+```statblock
+name: Asura Swiftfoot
+image: Asura Swiftfoot.jpg
+size: Medium
+type: humanoid
+subtype: Kitsune
+alignment: Chaotic Neutral
+ac: 17
+hp: 33
+hit_dice: 6d10
+speed: 40 ft.
+stats:
+  - 10
+  - 14
+  - 10
+  - 18
+  - 10
+  - 16
+saves:
+  - dexterity: 5
+  - constitution: 3
+  - intelligence: 7
+skillsaves:
+  - deception: 6
+  - acrobatics: 5
+  - sleight of hand: 5
+  - stealth: 5
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+languages: any four languages
+cr: "2"
+bestiary: true
+traits:
+  - name: Infusions (3)
+    desc: Spell slot ring (Timothy), Repulsion Shield (Asura), Homunculus Servant (Grim)
+  - name: Elixirs (2)
+    desc: Heal (2d4 + 4), Swiftness (MS + 10ft/1hr), Resilience (+1 AC), Flight (Fly speed = 10ft/10 mins), Boldness (add d4 to every atk roll or save/1 min), Transformation (Alter self/10 mins)
+  - name: Stored Elixirs 
+    desc: Heal & Swiftness
+  - name: Bomb (1/day)
+    desc: Creatures within 5 feet of impact must succeed a DC12 DEX or take 3d6
+actions:
+  - name: Fire Sling
+    desc: "Ranged Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 2) fire damage."
+  - name: Make or Use Elixir 
+    desc: "Consume or feed pre-made elixir. Can create one in empty flask for lvl 1 spell slot or higher"
+spells:
+  - "The mage is a 6th-level half-caster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The caster has the following artifcier spells prepared:"
+  - Cantrips (at will): magic stone, spare the dying
+  - 1st level (4 slots): catapult, healing word, ray of sickness
+  - 2nd level (3 slots): flaming sphere, melf's acid arrow
+reactions:
+  - name: Repulsion Shield (4/day)(Infusion)
+    desc: After being hit by melee expend 1 charge to push attacker up to 15 ft away
+```
 # Artificier: Alchemist
 ### Alchemist Spells
 

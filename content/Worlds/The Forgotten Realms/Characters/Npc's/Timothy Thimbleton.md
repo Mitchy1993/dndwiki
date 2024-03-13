@@ -1,4 +1,106 @@
 Reasonably talented, yet insecure evocation wizard. Has always lived in the shadow of his rival, [[Rovair]]. Determined to prove himself to his master, [[Vajra Safahr]], Timothy sees forming a rival party as a chance to finally step out of Rovair's shadow and earn the recognition he craves. With a keen intellect and a mastery of evocation magic, Timothy leads his party with ambition and a relentless drive to surpass his rival.
+![[Timothy Thimbleton.jpg]]
+# Statblock
+```statblock
+name: Timothy Thimbleton
+image: Timothy Thimbleton.jpg
+size: Medium
+type: humanoid
+subtype: Wood Elf
+alignment: True neutral
+ac: 15
+hp: 38
+hit_dice: 7d10
+speed: 35 ft.
+stats:
+  - 10
+  - 12
+  - 15
+  - 18
+  - 10
+  - 13
+saves:
+  - intelligence: 7
+  - wisdom: 3
+  - perception: 3
+  - sleight of hand: 4
+  - stealth: 4
+skillsaves:
+  - arcana: 7
+  - history: 7
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 13
+languages: any four languages
+cr: "2"
+bestiary: true
+traits:
+  - name: City Secrets
+    desc: When not in combat, move through two locations in the city twice as fast
+actions:
+  - name: Dagger
+    desc: "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 1) piercing damage."
+  - name: Mask of the Wild
+    desc: "You can attempt to hide even when only lightly obscured by foilage, heavy rain, falling snow, mist and other natural phenomena"
+  - name: Spell slot ring (1/day)(Infusion)
+    desc: "Recover 3rd level or lower slot"
+spells:
+  - "The mage is a 6th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The mage has the following wizard spells prepared:"
+  - Cantrips (at will): fire bolt, blade ward, mind sliver, message
+  - 1st level (4 slots): burning hands, mage armor, color spray, shield, silvery barbs
+  - 2nd level (3 slots): dragon's breath, shatter
+  - 3rd level (3 slots): counterspell, fireball, thunder step, ashardalon's stride
+```
+
+```statblock
+name: Grim (Infusion)
+image: Grim.jpg
+size: tiny
+type: construct
+subtype: Wood Elf
+alignment: True neutral
+ac: 14
+hp: 11
+hit_dice: 4d10
+speed: 30 ft.
+stats:
+  - 14
+  - 9
+  - 15
+  - 14
+  - 14
+  - 11
+saves:
+  - intelligence: 3
+  - wisdom: 3
+  - constitution: 3
+skillsaves:
+  - history: 3
+  - perception: 4
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: "poison"
+condition_immunities: "charmed, exhaustion"
+senses: passive Perception 14
+languages: any four languages
+cr: "2"
+bestiary: true
+traits:
+  - name: Tech Support
+    desc: Companions within 15 ft add +2 to INT and WIS checks
+  - name: Reboot
+    desc: When reduced to 0 HP make a CON throw DC = 5 + DMG, unless crit. On success reduce to 1 instead
+actions:
+  - name: Strike
+    desc: "Melee Attack: +9 to hit, reach 5 ft., one target. Hit: 4 (1d8 + 7) piercing damage."
+  - name: Heal Mode
+    desc: "Heal: Hit: 4 (1d8 + 5) temp HP"
+reactions:
+  - name: Protection Mode
+    desc: Creature within 5 feet that makes STR or DEX throw can add 1d4
+```
 # Evocation Wizard
 ### Evocation Savant
 
