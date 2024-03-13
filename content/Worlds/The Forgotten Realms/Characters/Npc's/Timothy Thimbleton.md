@@ -1,5 +1,6 @@
 Reasonably talented, yet insecure evocation wizard. Has always lived in the shadow of his rival, [[Rovair]]. Determined to prove himself to his master, [[Vajra Safahr]], Timothy sees forming a rival party as a chance to finally step out of Rovair's shadow and earn the recognition he craves. With a keen intellect and a mastery of evocation magic, Timothy leads his party with ambition and a relentless drive to surpass his rival.
 ![[Timothy Thimbleton.jpg]]
+![[Grim.jpg]]
 # Statblock
 ```statblock
 name: Timothy Thimbleton
