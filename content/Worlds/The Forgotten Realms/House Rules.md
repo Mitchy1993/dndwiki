@@ -20,23 +20,25 @@
 		- Instead, you have 1 minute in between each round to strategize and then the round starts.
 		- Once the round has started there will be no strategizing **You are in combat**
 		- If someone is outright egregiously breaking this rule, on purpose, their turn will be forfeited
-5. **Resurrections**
+	2. Players can describe their condition, but do not disclose HP
+	3. Standing up from prone provokes opportunity attacks from creatures that can reach
+1. **Resurrections**
 	- A resurrection attempted by spell or effect with longer than a 1 action casting time initiates a "resurrection challenge"
 		- Up to 3 members of the party can offer to contribute to the ritual via skill check
 			- DM asks each of them to make a skill check based on the form of their contribution
 			- DC adjusts based on how helpful/impactful DM feels the contribution would be
 	- Successful resurrections, should the soul be willing, will bring player character back to life
 	- Failed resurrections, character is lost forever
-6. **Sleep Deprivation:**
+2. **Sleep Deprivation:**
   - Failure to sleep on a proper surface results in a 10% Max HP penalty (rounded down).
   - Debuff removed by a Long Rest with appropriate accommodations.
-7. **Food Deprivation**:
+3. **Food Deprivation**:
   - Inadequate food leads to a stacking *hungry* debuff:
     - -1 to all ability checks and saving throws.
   - After 3 days, *starving* debuff occurs, reducing Max HP by 20% daily until death.
     - Eating a full meal removes all hunger/starving debuffs.
     - Eating half a meal removes half of all hunger/starving debuffs.
     - Eating a snack prevents a stack for that day.
-8. **Opportunity Attacks**
+4. **Opportunity Attacks**
 	- Disengage can be taken at the cost of half a creature's move speed unless threatened by two or more enemies
 	- If attacking creature has any feats related to opportunity attacks then they negate this method of disengaging.

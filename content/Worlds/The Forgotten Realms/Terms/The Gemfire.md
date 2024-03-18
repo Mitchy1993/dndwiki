@@ -2,4 +2,4 @@ The Captain [[Timothy Jones]] and First Mate [[Alenia]] command their ship with 
 
 The Gemfire's favorite port is [[Waterdeep]] where the crew are frequenters of the [[Yawning Portal]]
 
-[[Turak]] is a loyal slave of Alenia on ship, however he was always quite nice to Steve's character even though no one else was.
+[[Turak]] is a loyal slave of Alenia on ship, however he was always quite nice to [[Gruumshar]] even though no one else was.

@@ -1,4 +1,4 @@
-Nature-focused barbarian, was raised among a tribe of druids who worshipped the primal forces of the world. With an unwavering commitment to preserving the natural balance, Roaming Bull sees himself as a protector of the wilderness. Driven by a sense of duty and honor, he joins Timothy's rival party to ensure that no harm comes to the lands he holds dear.
+6'8" Human. Nature-focused barbarian, was raised among a tribe of druids who worshipped the primal forces of the world. With an unwavering commitment to preserving the natural balance, Roaming Bull sees himself as a protector of the wilderness. Driven by a sense of duty and honor, he joins Timothy's rival party to ensure that no harm comes to the lands he holds dear.
 ![[Roaming Bull.jpg]]
 # Statblock
 ```statblock
@@ -43,6 +43,8 @@ traits:
   - name: Ancestral Protectors
     desc: While raging, the first creature Bull hits each turn has disadvantage on any attack other than Bull. Any attacks they land on another target are halved
 actions:
+  - name: Punch (Raging)
+    desc: "Melee Attack: +8 to hit, reach 5 ft., one target. Hit: 4 (1 + 7) bludgeoning damage."
   - name: Greatsword
     desc: "Melee Attack: +8 to hit, reach 5 ft., one target. Hit: 4 (2d6 + 5) slashing damage."
   - name: Charge
