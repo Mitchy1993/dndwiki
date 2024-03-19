@@ -1,60 +1,53 @@
 Slave of [[Alenia]] on [[The Gemfire]], friend of [[Gruumshar]]
 
-Holding Brass knuckles as gift for Gruumshar
-
 ```statblock
 name: Turak
+image: 
 size: Medium
-type: Half-Orc
-subtype: ""
-alignment: Neutral Good
-ac: 18
-hp: 51
-hit_dice: 9d10 + 2
-speed: 30 ft., climb 30 ft.
+type: humanoid
+subtype: half-orc
+alignment: unaligned
+ac: 16
+hp: 55
+hit_dice: 10d10
+speed: 30 ft.
 stats:
   - 18
-  - 14
   - 16
-  - 12
-  - 12
+  - 15
+  - 10
+  - 10
   - 10
 skillsaves:
-  - athletics: 6
-  - perception: 3
-  - survival: 3
+  - athletics: 7
+  - intimidation: 7
+saves:
+  - strength: 7
+  - dexterity: 6
 damage_vulnerabilities: ""
 damage_resistances: ""
-damage_immunities: ""
+damage_immunities: 
 condition_immunities: ""
-senses: passive Perception 13
-languages: "Common, Orcish"
-cr: 1/2
+senses: passive Perception 11
+languages: Common
+cr: "5"
 bestiary: true
 traits:
-  - name: Rage 2/day
-    desc: As a bonus action, Turak enters a rage, gaining advantage on Strength checks and saving throws, and dealing an additional +2 damage with melee weapon attacks. Rage lasts for 1 minute.
-  - name: Reckless Attack
-    desc: When Turak makes his first attack on his turn, he can decide to attack recklessly. Doing so gives him advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against him have advantage until his next turn.
-  - name: Path of the Totem (Bear)
-    desc: Turak gains resistance to all damage types except psychic damage while he is raging.
-  - name: Danger Sense
-    desc: Turak has advantage on Dexterity saving throws against effects that he can see while not blinded, deafened, or incapacitated.
+  - name: Grappling Strike
+    desc: After hitting a creature try to grapple the target as a bonus action, add SD to athletics
+  - name: Parry
+    desc: Use reaction to reduce damage by one SD + DEX
+  - name: Trip Attack
+    desc: Add SD to DMG and enemy must succeed DC 16 STR or proned
+  - name: Unarmed Fighting Style
+    desc: Unarmed Strikes deal 1d6 + STR. 1d8 + STR if no weapons or shield wielded
 actions:
-  - name: Multiattack
-    desc: "Turak makes two fist attacks"
-  - name: Fist
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage."
-    attack_bonus: 6
-    damage_dice: 1d4
-    damage_bonus: 4
+  - name: Unarmed Strike
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 4) bludgeoning damage."
   - name: Greataxe
     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d12 + 4) bludgeoning damage."
-    attack_bonus: 5
-    damage_dice: 1d6
-    damage_bonus: 3
-
 ```
+
 
 _Half-Orc Barbarian (Path of the Totem Warrior - Bear)_
 
