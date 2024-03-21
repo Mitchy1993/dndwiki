@@ -1,0 +1,1 @@
+[[Zulkier]] of the [[Red Wizards]], master mind of the [[Purification Society]]

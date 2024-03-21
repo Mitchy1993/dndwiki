@@ -1,0 +1,4 @@
+- Read Backstories
+- Weave and interconnect each person's backstory to another character's backstory
+	- Cut's down on backstory tracking by half
+	- Improves player involvement and interest in each other

@@ -43,6 +43,8 @@ traits:
     desc: BA expend a shadow shape to become a shadow. Shadow Swipes impose DC 15 WIS throw, enemy loses 1 STR on failure. Heal for half damage dealt with melee
   - name: War Caster 
     desc: ADV on concentration saves; cast spell as opportunity attack
+  - name: Shadow Master 
+    desc: Can cast invisibility 1/day for free
 actions:
   - name: Shadow Swipes
     desc: "Melee Attack: +7 to hit, reach 5 ft., one target. Hit: 4 (2d6 + 2) necrotic damage."
@@ -55,8 +57,8 @@ actions:
 spells:
   - "The mage is a 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The caster has the following artifcier spells prepared:"
   - Cantrips (at will): poison spray, shillelagh, minor illusion
-  - 1st level (4 slots): Earth tremor
-  - 2nd level (3 slots): darkness, invisibility(free 1/day), locate object, shadow blade
+  - 1st level (4 slots): earth tremor
+  - 2nd level (3 slots): darkness, invisibility, locate object, shadow blade
   - 3rd level (3 slots): bestow curse, conjure animals, fear, revivify, tidal wave, wall of water
 reactions:
   - name: Call Shadowseeds (PROF/day)

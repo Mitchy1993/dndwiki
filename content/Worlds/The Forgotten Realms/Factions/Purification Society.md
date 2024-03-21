@@ -12,22 +12,22 @@ tags:
 
 #### Hierarchy of Races
 
-1. **[[Elf]]**: Revered for wisdom, longevity, and nature affinity, epitomizing grace and sophistication.
+1. **[[elf]]**: Revered for wisdom, longevity, and nature affinity, epitomizing grace and sophistication.
 
-2. **[[Gnome]]**: Valued for intellect, creativity, and innovation, leading in technology and magic.
+2. **[[gnome]]**: Valued for intellect, creativity, and innovation, leading in technology and magic.
 
-3. **[[Halfling]]**: Praised for luck, adaptability, and community bonds, resilient and resourceful.
+3. **[[halfling]]**: Praised for luck, adaptability, and community bonds, resilient and resourceful.
 
-4. **[[Human]]**: Esteemed for diversity, ambition, and adaptability, prominent in various fields.
+4. **[[human]]**: Esteemed for diversity, ambition, and adaptability, prominent in various fields.
 
-5. **[[Dwarf]]**: Recognized for craftsmanship, resilience, and honor, vital contributors to society.
+5. **[[dwarf]]**: Recognized for craftsmanship, resilience, and honor, vital contributors to society.
 
-6. **[[Half-Elf]]**: Blend of elven grace and human versatility, adept at mediation and diplomacy.
+6. **[[half-elf]]**: Blend of elven grace and human versatility, adept at mediation and diplomacy.
 
-7. **[[Dragonborn]]**: Feared and admired for draconic heritage, respected as powerful warriors and leaders.
+7. **[[dragonborn]]**: Feared and admired for draconic heritage, respected as powerful warriors and leaders.
 
-8. **[[Tiefling]]**: Treated cautiously due to infernal lineage, skilled in magic and determined in pursuits.
+8. **[[tiefling]]**: Treated cautiously due to infernal lineage, skilled in magic and determined in pursuits.
 
-9. **[[Half-Orc]]**: Underestimated yet respected for strength and tenacity, formidable warriors.
+9. **[[half-orc]]**: Underestimated yet respected for strength and tenacity, formidable warriors.
 
-10. **Others**: Inferior races like [[Kenku]], [[Orc]], [[Goblin]], and [[Kobold]] are marginalized and often hunted or enslaved.
+10. **Others**: Inferior races like [[Kenku]], [[orc]], [[goblin]], and [[kobold]] are marginalized and often hunted or enslaved.

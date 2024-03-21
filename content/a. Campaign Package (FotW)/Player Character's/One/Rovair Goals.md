@@ -1,0 +1,3 @@
+- Complete Selene's Quest and maybe restore his magic
+	- Find party (*Complete*)
+	- Visit Selene for briefing (Complete)

@@ -1,0 +1,4 @@
+- Fix the town for his buddy [[Durnan]]
+	- Rats *(COMPLETE)*
+	- Murders
+	- Upstart Cult (COMPLETE)
