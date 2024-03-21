@@ -1,6 +1,0 @@
-| Pace   | Distance Traveled per... |         |          | Effect                                                                                                                            |
-| ------ | ------------------------ | ------- | -------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Minute | Hour                     | Day     |          |                                                                                                                                   |
-| Fast   | 400 feet                 | 4 miles | 30 miles | −5 penalty to passive Wisdom ([Perception](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_30)) scores |
-| Normal | 300 feet                 | 3 miles | 24 miles | —                                                                                                                                 |
-| Slow   | 200 feet                 | 2 miles | 18 miles | Able to use [stealth](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_18)                              |

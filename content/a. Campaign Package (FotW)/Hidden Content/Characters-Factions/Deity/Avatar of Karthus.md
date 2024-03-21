@@ -1,1 +1,0 @@
-see [[Avatar of Gale]]
