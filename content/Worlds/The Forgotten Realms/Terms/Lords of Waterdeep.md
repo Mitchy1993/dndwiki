@@ -1,3 +1,5 @@
+*Voice: Cover mouth & deep muffle/distortion*
+
 - **Lords of Waterdeep:**
   - Mysterious ruling council of Waterdeep since the 11th century.
   - Responsibilities include governing the city, overseeing economy, security, diplomacy, and legal jurisdiction.
